@@ -14,7 +14,7 @@ public class Velero extends Barco
      */
     public Velero(int numeroMastiles,String matricula,float eslora,int anoFab)
     {
-        super(matricula,eslora,anoFab);
+        super(matricula, eslora, anoFab);
         this.numeroMastiles = numeroMastiles;
     }
     
